@@ -5,3 +5,9 @@ If you want to improve the control, use cascaded control. For this use the ball 
 You can use or share any part of this work.  
 
 The stl files are from mathworks , thanks to Brian McKay.
+
+Results for motor control
+![alt text](https://github.com/Moe-saab/Ball-in-the-tube-device-for-teaching-control-engineering/raw/main/MotorControl.png)
+
+Results for ball position control
+![alt text](https://github.com/Moe-saab/Ball-in-the-tube-device-for-teaching-control-engineering/raw/main/BallPositionControl_CascadedControl.png)
