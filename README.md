@@ -4,7 +4,7 @@ In the give software, you are free to use only system as a whole to implement a 
 If you want to improve the control, use cascaded control. For this use the ball subsystem and motor subsystem folders.  
 You can use or share any part of this work.  
 
-The stl files are from mathworks , thanks to Brian McKay.
+The stl files are from mathworks , thanks to Brian McKay.  
 System:
 ![alt text](https://github.com/Moe-saab/Ball-in-the-tube-device-for-teaching-control-engineering/raw/main/currenttubeshort.jpeg)
 
